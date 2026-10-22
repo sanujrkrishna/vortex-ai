@@ -108,3 +108,21 @@ npm run dev
 ```
 
 Open your browser at `http://localhost:5173`.
+
+
+## 📸 Interface Preview
+
+### 1. Main Dashboard
+![Screenshot 1](assets/screenshot1.png)
+
+### 2. Document Vault Active
+![Screenshot 2](assets/screenshot2.png)
+
+### 3. Chat & Markdown Response1
+![Screenshot 3](assets/screenshot3.png)
+
+### 4. Chat & Markdown Response2
+![Screenshot 4](assets/screenshot4.png)
+
+### 5. Source Citations
+![Screenshot 5](assets/screenshot5.png)
